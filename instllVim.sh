@@ -8,7 +8,7 @@ do
 		rm -rf ${file}
 	fi
 done
-git clone https://github.com/wang2470616413/vimrc 
+git clone https://github.com/wang2470616413/vimrc.git 
 git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 sudo apt-get install cmake
 dirvimrc=~/vimrc/
